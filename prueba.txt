@@ -1,0 +1,10 @@
+imoprt java.util.scanner;
+
+public class prueba{ 
+	 public static vold main(String args
+´	Scanner captura = new Scanner(Sysyem,in)
+	System.out.printIn("Introduce tu nombre")
+	System nombre = captura.nextline();
+	System.out.println(nombre);
+	}
+}
